@@ -2,6 +2,6 @@
 
 В данном репозитории представлен исходный код для БД "Компания" и блок-схема для данной БД:
 
-![][company_scheme]
+![Схема БД "Компания"][company_scheme]
 
-[company_scheme]: http://dl.dropbox.com/u/118650/mbe/screenshots/current_buffer/old.png`
+[company_scheme]: https://github.com/TheAthlete/DBIx-Class-Cookbook/blob/master/company.png "Схема БД 'Компания'"
